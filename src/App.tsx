@@ -1,5 +1,5 @@
 import React from 'react';
-import { Bot, Zap, Shield, Code, MessageSquare, CalendarCheck, Instagram } from 'lucide-react';
+import { Bot, Zap, Shield, Code, MessageSquare, CalendarCheck, Instagram, Facebook, ListTodo, ListOrdered, BrainCircuit } from 'lucide-react';
 
 function App() {
   return (
