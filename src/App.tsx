@@ -19,7 +19,7 @@ function App() {
         </nav>
         
         <div className="container mx-auto px-6 py-24 text-center">
-          <h1 className="text-5xl font-bold mb-6">Automação que Soma Eficiência</h1>
+          <h1 className="text-3xl font-bold mb-6">Automação que Soma Eficiência</h1>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
             Transforme sua empresa com soluções de automação inteligente. 
             Economize tempo e aumente a eficiência da sua clínica com nossas automações.
