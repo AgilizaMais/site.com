@@ -8,7 +8,7 @@ function App() {
       <header className="bg-[#1b4f8f] text-white">
         <nav className="container mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-2">
-            <Workflow className="w-8 h-8" />
+            <img src="https://imgur.com/cBLgj8U.png" alt="Agiliza+ Logo" className="h-9" />
             <span className="text-xl font-bold">Agiliza+</span>
           </div>
           <div className="hidden md:flex space-x-8">
@@ -25,7 +25,7 @@ function App() {
             Economize tempo e aumente a eficiência da sua clínica com nossas automações.
           </p>
           <a 
-            href="https://wa.me/5582987518943" 
+            href="https://wa.me/5582974000771?text=Ol%C3%A1%21%20Gostaria%20de%20conhecer%20os%20planos%20da%20Agiliza%2B%20%F0%9F%A4%94" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="inline-block bg-[#1b4f8f] hover:bg-[#163f72] text-white px-8 py-3 rounded-lg font-semibold transition-colors border-2 border-white"
@@ -100,7 +100,7 @@ function App() {
                 para consultar nossos planos e fazer seu orçamento. Vem Agilizar +!
               </p>
               <a 
-                href="https://wa.me/5582987518943" 
+                href="https://wa.me/5582974000771?text=Ol%C3%A1%21%20Gostaria%20de%20conhecer%20os%20planos%20da%20Agiliza%2B%20%F0%9F%A4%94" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="inline-block bg-[#1b4f8f] hover:bg-[#163f72] text-white px-8 py-3 rounded-lg font-semibold transition-colors"
@@ -117,7 +117,7 @@ function App() {
         <div className="container mx-auto px-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-2 mb-4 md:mb-0">
-              <Workflow className="w-6 h-6" />
+              <img src="https://imgur.com/cBLgj8U.png" alt="Agiliza+ Logo" className="h-6" />
               <span className="font-bold">Agiliza+</span>
             </div>
             <div className="text-sm text-blue-200">
