@@ -56,7 +56,7 @@ function App() {
               description="colocar mais coisas aqui."
             />
             <ServiceCard 
-              icon={<Bot className="w-12 h-12 text-[#1b4f8f]" />}
+              icon={<Instagram className="w-12 h-12 text-[#1b4f8f]" />}
               title="blablabla"
               description="colocar mais coisas aqui."
             />
