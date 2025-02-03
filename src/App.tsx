@@ -41,7 +41,7 @@ function App() {
           <h2 className="text-3xl font-bold text-center text-[#1b4f8f] mb-16">Nossos Serviços</h2>
           <div className="grid md:grid-cols-3 gap-8">
             <ServiceCard 
-              icon={<Bot className="w-12 h-12 text-[#1b4f8f]" />}
+              icon={<CalendarCheck className="w-12 h-12 text-[#1b4f8f]" />}
               title="Agendamentos Automáticos"
               description="Confirmação de consultas, lembretes e reagendamentos via WhatsApp."
             />
@@ -49,6 +49,11 @@ function App() {
               icon={<Zap className="w-12 h-12 text-[#1b4f8f]" />}
               title="Integração de Sistemas"
               description="Conecte diferentes plataformas e simplifique processos repetitivos."
+            />
+            <ServiceCard 
+              icon={<Bot className="w-12 h-12 text-[#1b4f8f]" />}
+              title="blablabla"
+              description="colocar mais coisas aqui."
             />
             <ServiceCard 
               icon={<Shield className="w-12 h-12 text-[#1b4f8f]" />}
