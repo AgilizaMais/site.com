@@ -6,9 +6,9 @@ function App() {
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white">
       {/* Hero Section */}
       <header className="bg-[#1b4f8f] text-white">
-        <nav className="container mx-auto px-6 py-4 flex items-center justify-between">
+        <nav className="container mx-auto px-2 py-2 flex items-center justify-between">
           <div className="flex items-center space-x-2">
-            <img src="https://imgur.com/cBLgj8U.png" alt="Agiliza+ Logo" className="h-9" />
+            <img src="https://imgur.com/cBLgj8U.png" alt="Agiliza+ Logo" className="h-7" />
             <span className="text-xl font-bold">Agiliza+</span>
           </div>
           <div className="hidden md:flex space-x-8">
